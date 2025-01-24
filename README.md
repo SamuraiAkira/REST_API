@@ -25,7 +25,7 @@ https://docs.google.com/document/d/1-laS0wKfca9m3r0FOBkMI1GuZ6HSyC73/edit
 1. Склонируйте репозиторий: ```git clone https://github.com/SamuraiAkira/REST_API```
 2. Убедитесь, что у вас установлен Go версии 1.22 и нужные зависимости. Для работы с маршрутизацией используется пакет Gorilla Mux.
    <br>Установите его следующим образом: ```go get "github.com/gorilla/mux"```
-*3. Инициализируйте проект: ```go mod init REST-API``` 
+<br>*3. Инициализируйте проект: ```go mod init REST-API``` 
 4. Запустите проект: ```go run cmd/main.go```
 
 *Опционально
