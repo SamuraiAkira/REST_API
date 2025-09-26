@@ -1,7 +1,3 @@
-<h3>Кто я?</h3>
-
-Юманов Никита, студент группы ИСдо-46
-
 <h3>Ссылка на задание</h3>
 
 https://docs.google.com/document/d/1-laS0wKfca9m3r0FOBkMI1GuZ6HSyC73/edit
